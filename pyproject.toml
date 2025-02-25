@@ -17,6 +17,9 @@ faiss-cpu = "^1.9.0"
 gradio = "^5.3.0"
 langchain-google-genai = "^2.0.1"
 langchain-neo4j = "^0.3.0"
+sentence-transformers = "^3.4.1"
+langchain-huggingface = "^0.1.2"
+optree = "^0.13.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
